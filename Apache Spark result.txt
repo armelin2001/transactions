@@ -1,0 +1,54 @@
+Resultados:
+--------------------------------------------------------------------
+Exercício 1: 
+(Brazil,184748)
+
+--------------------------------------------------------------------
+Exercício 2: 
+(1988,30994)
+(1989,63921)
+(1990,72258)
+(1991,83933)
+(1992,121184)
+
+---------------------------------------------------------------------
+Exercício 3: 
+( Import     Iron ore, concentrate, not iron pyrites,unagglomerate,1362436716054)
+( Export     Iron ore, concentrate, not iron pyrites,unagglomerate,1343444789618)
+( Import     Petroleum oils, oils from bituminous minerals, crude,1212969611035)
+( Import     Ice, snow and potable water not sweetened or flavoure,747465038945)
+( Export     Ice, snow and potable water not sweetened or flavoure,722052848333)
+
+--------------------------------------------------------------------
+Exercício 4: 
+(1988,6.1921904E7)
+(1989,4.883314E7)
+(1990,5.0677768E7)
+(1991,5.9542776E7)
+(1992,5.2449456E7)
+
+---------------------------------------------------------------------
+Exercício 5: 
+(No Quantity|1990|68_stone_plaster_cement_asbestos_mica_etc_articles,6.0)
+(No Quantity|1992|68_stone_plaster_cement_asbestos_mica_etc_articles,1064.0)
+(No Quantity|1995|68_stone_plaster_cement_asbestos_mica_etc_articles,5908.0)
+(No Quantity|1996|68_stone_plaster_cement_asbestos_mica_etc_articles,2277.0)
+(No Quantity|2001|68_stone_plaster_cement_asbestos_mica_etc_articles,244.0)
+
+---------------------------------------------------------------------
+Exercício 6: 
+(ALL COMMODITIES|No Quantity|2013  ,4.2746702E13)
+(ALL COMMODITIES|No Quantity|2014  ,4.2720609E13)
+(ALL COMMODITIES|No Quantity|2012  ,4.1699213E13)
+(ALL COMMODITIES|No Quantity|2011  ,4.1597887E13)
+(ALL COMMODITIES|No Quantity|2015  ,3.7278408E13)
+
+---------------------------------------------------------------------
+Exercício 7: 
+(Import|1988|,15833)
+(Import|1989|,33778)
+(Import|1990|,38945)
+(Import|1991|,46024)
+(Import|1992|,69724)
+
+---------------------------------------------------------------------
